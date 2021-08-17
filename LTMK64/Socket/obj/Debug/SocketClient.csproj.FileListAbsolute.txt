@@ -1,0 +1,8 @@
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\Socket\obj\Debug\SocketClient.Form1.resources
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\Socket\obj\Debug\SocketClient.Properties.Resources.resources
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\Socket\obj\Debug\SocketClient.csproj.GenerateResource.cache
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\Socket\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\Socket\bin\Debug\SocketClient.exe
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\Socket\bin\Debug\SocketClient.pdb
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\Socket\obj\Debug\SocketClient.exe
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\Socket\obj\Debug\SocketClient.pdb

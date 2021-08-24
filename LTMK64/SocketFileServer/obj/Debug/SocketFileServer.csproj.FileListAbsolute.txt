@@ -1,0 +1,6 @@
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\SocketFileServer\bin\Debug\SocketFileServer.exe
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\SocketFileServer\bin\Debug\SocketFileServer.pdb
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\SocketFileServer\obj\Debug\SocketFileServer.csproj.CoreCompileInputs.cache
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\SocketFileServer\obj\Debug\SocketFileServer.exe
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\SocketFileServer\obj\Debug\SocketFileServer.pdb
+D:\GitHub\LTM_K64\LTM_K64\LTMK64\SocketFileServer\obj\Debug\SocketFileServer.csprojAssemblyReference.cache
